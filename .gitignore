@@ -1,0 +1,16 @@
+# Virtual Environment (Never push this)
+.venv/
+venv/
+ENV/
+
+# Vector Database persistence
+chroma_db/
+
+# Python cache & temp files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment variables / secrets
+.env
