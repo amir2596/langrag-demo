@@ -1,6 +1,7 @@
 # Nimbus Docs RAG Demo
 
 ![Nimbus Docs RAG Demo](assets/demo.gif)
+![Nimbus Docs RAG Demo](assets/demo_streamlit.gif)
 
 A small, deliberately generic LangChain + Ollama RAG demo — built to
 show "I can do this in your stack" on Python/LangChain Upwork job

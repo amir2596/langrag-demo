@@ -5,3 +5,5 @@ langchain-text-splitters
 chromadb
 fastapi
 uvicorn[standard]
+langchain-google-genai
+streamlit
