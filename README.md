@@ -1,5 +1,9 @@
 # Nimbus Docs RAG Demo
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://langrag-demo.streamlit.app/)
+
+> 🚀 **Live Interactive Demo:** [Try the deployed app here](https://langrag-demo.streamlit.app/)
+
 ![Nimbus Docs RAG Demo](assets/demo.gif)
 ![Nimbus Docs RAG Demo](assets/demo_streamlit.gif)
 
