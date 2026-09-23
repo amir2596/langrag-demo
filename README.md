@@ -1,7 +1,5 @@
 # Nimbus Docs RAG Demo
 
-# Nimbus Docs RAG Demo
-
 ![Nimbus Docs RAG Demo](assets/demo.gif)
 
 A small, deliberately generic LangChain + Ollama RAG demo — built to
