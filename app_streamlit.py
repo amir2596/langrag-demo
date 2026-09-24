@@ -13,7 +13,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # Page configuration
 st.set_page_config(page_title="Nimbus Docs AI Assistant", page_icon="🤖")
 st.title("🤖 Nimbus Docs Q&A Assistant")
-st.caption("A grounded RAG demo powered by Google Gemini & LangChain ")
+st.caption("A grounded RAG demo powered by Google Gemini & LangChain")
 
 # Sidebar for API Key configuration
 with st.sidebar:
